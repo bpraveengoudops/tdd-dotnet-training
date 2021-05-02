@@ -1,0 +1,9 @@
+D:\TDD\Apr2021\Day1\Day1\bin\Debug\netcoreapp3.1\Day1.deps.json
+D:\TDD\Apr2021\Day1\Day1\bin\Debug\netcoreapp3.1\Day1.dll
+D:\TDD\Apr2021\Day1\Day1\bin\Debug\netcoreapp3.1\Day1.pdb
+D:\TDD\Apr2021\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.csprojAssemblyReference.cache
+D:\TDD\Apr2021\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.AssemblyInfoInputs.cache
+D:\TDD\Apr2021\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.AssemblyInfo.cs
+D:\TDD\Apr2021\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.csproj.CoreCompileInputs.cache
+D:\TDD\Apr2021\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.dll
+D:\TDD\Apr2021\Day1\Day1\obj\Debug\netcoreapp3.1\Day1.pdb
